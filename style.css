@@ -1,0 +1,25 @@
+body{
+    background-color: lightblue;
+}
+div{
+    text-align: center;
+    background-color: lightblue 
+}
+
+#img{
+    /* margin-left: 500px; */
+    float: right
+}
+
+h2{
+    /* display: inline; */
+    /* text-align: left; */
+    /* float: left; */
+}
+
+
+#material{
+    
+}
+
+
