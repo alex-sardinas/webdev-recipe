@@ -6,20 +6,18 @@ div{
     background-color: lightblue 
 }
 
-#img{
-    /* margin-left: 500px; */
-    float: right
-}
-
 h2{
-    /* display: inline; */
-    /* text-align: left; */
-    /* float: left; */
+    text-align: left;
+    font-size: 45px
 }
 
-
-#material{
-    
+ol{
+    font-size: 20px
 }
+
+ul{
+    font-size: 20px
+}
+
 
 
